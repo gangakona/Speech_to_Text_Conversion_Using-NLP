@@ -44,12 +44,16 @@ speech_to_text.py --audio_path /path/to/audio/file.wav
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (git checkout -b feature/your-feature).
+2. Create a new branch **(git checkout -b feature/your-feature).**
 3. Make your changes.
-4. Commit your changes (git commit -am 'Add some feature').
-5. Push to the branch (git push origin feature/your-feature).
+4. Commit your changes **(git commit -am 'Add some feature').**
+5. Push to the branch **(git push origin feature/your-feature).**
 6. Create a new Pull Request.
-
+##Future Enhancements
+- **Enhanced Accuracy**: Continuously improving the accuracy of the transcription model through data augmentation, fine-tuning, and model optimization techniques.
+- **Adaptive Learning:** Implementing adaptive learning algorithms to improve transcription accuracy over time based on user feedback and data insights.
+- **Integration with Voice Assistants**: Integrating the STT system with popular voice assistants (e.g., Amazon Alexa, Google Assistant) to enable voice-controlled transcription capabilities.
+- **Support for Noisy Environments:** Developing algorithms to enhance the system's performance in noisy environments and challenging acoustic conditions.
 
 
 
