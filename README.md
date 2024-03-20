@@ -14,9 +14,9 @@ Speech to Text conversion is a fundamental task in NLP that involves converting 
 ## Motivation
 The motivation behind this project stems from the growing demand for accurate and efficient speech recognition systems. With the increasing prevalence of voice-controlled devices and applications, there is a need for robust STT systems that can accurately transcribe audio recordings in real-time. By leveraging NLP techniques, we aim to develop a sophisticated solution that not only converts speech to text but also incorporates language understanding and context analysis for enhanced accuracy and usability.
 ## Installation
-1. Clone the Repository:
-```python
- git clone https://github.com/your_username/speech-to-text-nlp.git```
+1. **Clone the Repository:**
+    ```python
+     git clone https://github.com/your_username/speech-to-text-nlp.git```
 
 2. **Navigate to the project directory:**
 ```python
