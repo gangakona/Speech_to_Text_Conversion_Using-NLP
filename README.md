@@ -16,15 +16,15 @@ The motivation behind this project stems from the growing demand for accurate an
 ## Installation
 1. Clone the Repository:
 ```python
- git clone https://github.com/your_username/speech-to-text-nlp.git
-```
+ git clone https://github.com/your_username/speech-to-text-nlp.git```
+
 2. **Navigate to the project directory:**
 ```python
 cd speech-to-text-nlp```
 
 3. **Install the required dependencies:**
 ```python
-pip install -r requirements.txt````
+pip install -r requirements.txt```
 
 4. **Usage**
 - Prepare your audio file(s) for transcriptions
